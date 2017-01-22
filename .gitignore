@@ -25,6 +25,7 @@ Thumbs.db
 .DS_Store
 
 # Eclipse project files
+.settings
 .classpath
 .project
 
